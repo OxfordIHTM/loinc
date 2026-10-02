@@ -27,7 +27,7 @@ knitr::opts_chunk$set(
 
 The [Logical Observation Identifiers Names and Codes or LOINC](https://loinc.org/) is the international standard for identifying health observations, measurements, and documents. This package interfaces with the LOINC API for their [terminology service](https://loinc.org/fhir), [search](https://loinc.org/kb/api/search-api), and [download](https://loinc.org/kb/api/download) endpoints.
 
-## What does the package do?
+## What the package does
 
 Please note that `{roinc}` is in early experimental development stage and functionalities and their corresponding syntax may change over time until we reach a more stable version.
 
