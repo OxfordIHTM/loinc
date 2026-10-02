@@ -12,8 +12,6 @@ Useful links:
 
 - <https://github.com/OxfordIHTM/roinc>
 
-- <http://oxford-ihtm.io/roinc/>
-
 - Report bugs at <https://github.com/OxfordIHTM/roinc/issues>
 
 ## Author

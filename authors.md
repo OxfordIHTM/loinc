@@ -13,13 +13,13 @@ Source:
 Ernest Guevarra (2026). *roinc: Interface to the Logical Observation
 Identifiers Names and Codes (LOINC) API*.
 [doi:10.5281/zenodo.22831698](https://doi.org/10.5281/zenodo.22831698).
-R package version 0.0.9002, <https://oxford-ihtm.io/roinc/>.
+R package version 0.0.9003, <https://oxford-ihtm.io/roinc/>.
 
     @Manual{,
       title = {roinc: Interface to the Logical Observation Identifiers Names and Codes (LOINC) API},
       author = {{Ernest Guevarra}},
       year = {2026},
-      note = {R package version 0.0.9002},
+      note = {R package version 0.0.9003},
       url = {https://oxford-ihtm.io/roinc/},
       doi = {10.5281/zenodo.22831698},
     }
